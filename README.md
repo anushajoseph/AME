@@ -1,13 +1,12 @@
-#AMR
+ ![BFH Banner](https://github.com/anushajoseph/Tink_Her_Hack/blob/00faaafcd39d179083b5778746760b7fc121c489/tink-her-hack.png)
+ # WebApp for Women 
 <p align="center">
- <img width="200px" src="Logo.png"/>
+ <img width="300px" src="Logo.png"/>
 </p>
 <p>An Integrated Self-Tracking System for women : Journaling, Period Tracking, Fitness guide, Task Management and other features.</p>
 
  ***We're thankful for this opportunity because this project helped us to understand the workflow of creating a web app using ?. We got to know about ? which were used for certain needs in the project. Overall it was a great learning experience.***
  
-- Input taken: From user
-- Output: Action generated based on given data.
 <br/>
 
 ## Team members:
@@ -19,6 +18,7 @@
 ## Link to product walkthrough:
  
 https://www.loom.com/
+
 ## Libraries used:
  
 - speech_recognition

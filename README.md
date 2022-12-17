@@ -1,7 +1,7 @@
  ![BFH Banner](https://github.com/anushajoseph/Tink_Her_Hack/blob/00faaafcd39d179083b5778746760b7fc121c489/tink-her-hack.png)
  # WebApp for Women 
 <p align="center">
- <img width="300px" src="Logo.png"/>
+ <img width="300px" src="src/Logo.png"/>
 </p>
 <p>An Integrated Self-Tracking System for women : Journaling, Period Tracking, Fitness guide, Task Management and other features.</p>
 
@@ -17,70 +17,56 @@
 
 ## Link to product walkthrough:
  
-https://www.loom.com/
+https://www.loom.com (to be created)
 
-## Libraries used:
+## Packages used:
  
-- speech_recognition
+- react-moment
 
-- pyttsx3
-
-- pywhatkit
-
-- datetime
-
-- wikipedia
-
-- pyjokes
-
-- requests
+- react-calendar 
 
 ## How to configure:
-**1.** Installing pip [Python Package Manager]
+**1.** Install 
 
 ```shell
-$ sudo apt-get install python3-pip
+$ 
 ```
 
 **2.** Clone this repository to your local drive
 
 ```shell
-$ git clone https://github.com/anushajoseph/Chatbot
+$ git clone https://github.com/anushajoseph/AME
 ```
 
 **3.** Install dependencies
 
 ```shell
-$ pip3 install -r requirements.txt
+$ npm i react-moment react-calendar
 ```
 
-**4.** Open Terminal and Run 
+**4.** Open Terminal and Run using the command: npm start
 
 ```shell
-$ Tessa.py
+$ App.js
 ```
 
 ## How it works:
  
-**1.** Imported speech_recognition for recognising the voice of the user.
+**1.** Make a project directory - head over to the terminal and create a React app named “AME” using the command: npx create-react-app ame
  
-**2.** Imported pyttsx3 for converting text to speech.
+**2.** Imported Moment from "react-moment" to work with the dates. 
  
-**3.** Changed male voice to female voice by setting index number to 1 (voices[1]).
+**3.** Imported Calendar from "react-calendar" , select the last period datecurrent date or time if asked by the user.
  
-**4.** Added basic commands in the code.
+**4.** User should select their period cycle length.
  
-**5.** Got access to Youtube and Google using pywhatkit.
+**5.** With the help of the last period start date and cycle length we will get an estimate of the next period.
  
-**6.** Imported datetime to know the current date or time if asked by the user.
+**6.** Added basic commands in the code.
  
-**7.** Got access to wikipedia by importing python wikipedia.
- 
-**8.** Added jokes by importing the library pyjokes.
- 
-**9.** Imported requests to get json data from URL to give current weather condition of the place asked.
- 
-**10.** It is all set to run.
+**7.** 
+
+It is all set to run.
  
 ## Actions performed:
  
@@ -93,15 +79,7 @@ $ Tessa.py
  <td>hi / hello</td>		   
  <td>What can I do for you?</td>		
 </tr>
-<tr>
- <td>who are you / what can you do</td>		   
- <td>I am Tessa your personal assistant. I am programmed to perform minor tasks like, play songs in youtube, search in google chrome, tell date and time, search in wikipedia, tell current weather in different places and you can ask me to tell a joke too</td>
-</tr>
  <tr>
- <td>who made you /<br/> who created you / who discovered you</td>		   
- <td>I was built by Anusha, Sandra and Sneha.</td>
-</tr>
-<tr>
  <td>play (song)</td>		   
  <td>playing (song)</td>
 </tr>

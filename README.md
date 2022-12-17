@@ -70,45 +70,19 @@ It is all set to run.
  
 ## Actions performed:
  
- <table>
+<table>
 <tr>
- <td><h5>COMMAND</h5></td>   
- <td><h5>REPLY</h5></td>
+<td><h5>COMMAND</h5></td>   
+<td><h5>OUTPUT</h5></td>
 </tr>
 <tr>
- <td>hi / hello</td>		   
- <td>What can I do for you?</td>		
-</tr>
- <tr>
- <td>play (song)</td>		   
- <td>playing (song)</td>
+<td>?</td>		   
+<td>?</td>
 </tr>
 <tr>
- <td>search (topic)</td>		   
- <td>searching (topic)</td>
+<td>?</td>		   
+<td>?</td>
 </tr>
-<tr>
- <td>time</td>		   
- <td>Current time is.....</td>
-</tr>
-<tr>
- <td>date</td>		   
- <td>Today is....</td>
- </tr><tr>
- <td>wikipedia (topic)</td>		   
- <td>(2 lines from the wikipedia page)</td>
- </tr><tr>
- <td>joke</td>		   
- <td>(joke from pyjokes)</td>
- </tr>
- <tr>
- <td>current weather in (place)</td>		   
- <td>(temprature in degree celsius with weather condition)</td>
- </tr>
-  <tr>
- <td>bye</td>		   
- <td>Thank you. Assistance accomplished! Huzzah!</td>
- </tr>
 </table>
 
 <p align="center">

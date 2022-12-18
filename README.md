@@ -3,15 +3,15 @@
 <p align="center">
  <img width="300px" src="src/Logo.png"/>
 </p>
-<p>An Integrated Self-Tracking System for women : Journaling, Period Tracking, Fitness guide, Task Management and other features. Most people spend days upon days talking about empowering women and making their lives easier. Let alone maintain proper hygiene, most people I've met aren't even fully aware of their own options. In a society full of superstitious beliefs clogging people's minds and leading them to mistreat the women in their family, there MUST be some glimmer of education!
-I believe it's the small things that count. Therefore, I decided to develop Medusa - a free and open sourced project with the intention of giving girls the knowledge they lack about their own health, charting out the hormonal cycles of people, and letting them keep an eye on their physical and mental well-being.
-Can I help?
-Absolutely anyone can pitch in!
-
-
+<p>
+Most people spend days upon days talking about empowering women and making their lives easier but only very few take steps to implement it. Let alone maintain proper hygiene, most people aren't even fully aware of their own options. In a society full of superstitious beliefs clogging people's minds and leading them to mistreat the women in their family, there MUST be some glimmer of education!
+We believe it's the small things that count. Therefore, we decided to develop AME an integrated self-tracking system that acts like a friend to women. 
+The features of our web app are: Period Tracking, Fitness guide, Journaling, Prediction of baby delivery, GPS Tracking - a safety feature for women's security and task Management. Out of which we were successfully able to deploy the period tracking feature. Prediction of baby delivery and task management features are partially completed. Rest of the features have to be added soon.
+ 
+This app is developed with the intention of giving girls the knowledge they lack about their own health, charting out the hormonal cycles of people, and letting them keep an eye on their physical and mental well-being.
 </p>
 
- ***We're thankful for this opportunity because this project helped us to understand the workflow of creating a web app using ?. We got to know about ? which were used for certain needs in the project. Overall it was a great learning experience.***
+ ***We're thankful for this opportunity because this project helped us to understand the workflow of creating a web app using React.js. We got to know about several modules in React.js which were used for certain needs in the project. Overall it was a great learning experience.***
  
 <br/>
 
@@ -23,7 +23,7 @@ Absolutely anyone can pitch in!
 
 ## Link to product walkthrough:
  
-https://www.loom.com (to be created)
+https://www.loom.com 
 
 ## Packages used:
  
@@ -32,10 +32,10 @@ https://www.loom.com (to be created)
 - react-calendar 
 
 ## How to configure:
-**1.** Install 
+**1.** Install  Visual Studio Code (VSC)
 
 ```shell
-$ 
+$ https://code.visualstudio.com/
 ```
 
 **2.** Clone this repository to your local drive
@@ -70,7 +70,7 @@ $ App.js
  
 **6.** Added basic commands in the code.
  
-**7.** 
+**7.** We have added 
 
 It is all set to run.
  

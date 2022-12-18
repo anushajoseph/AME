@@ -23,7 +23,7 @@ This app is developed with the intention of giving girls the knowledge they lack
 
 ## Link to product walkthrough:
  
-https://www.loom.com 
+https://www.loom.com/share/9757e7012f4a4cd2b2d5a1a25027eb8b
 
 ## Packages used:
  
@@ -62,7 +62,7 @@ $ App.js
  
 **2.** Imported Moment from "react-moment" to work with the dates. 
  
-**3.** Imported Calendar from "react-calendar" , select the last period datecurrent date or time if asked by the user.
+**3.** Imported Calendar from "react-calendar" to select the last period date.
  
 **4.** User should select their period cycle length and then her last period start date from the calender.
  

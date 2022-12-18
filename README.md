@@ -90,10 +90,16 @@ We have added prediction of baby delivery and to-do-list features which are to b
 </tr>
 </table>
 
+## WEBAPP deployed:
 <p align="center">
-<img width="300px" src="src/AMEsite.png"/>
+<img width="800px" src="AMEsite.png"/>
  </p>
 
+## WEBAPP prototype:
+<p align="center">
+<img width="800px" src="AMEprototype.png"/>
+ </p>
+ 
 <p align="center">
 🌟 Star this repository if you find it useful.
 </p>

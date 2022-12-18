@@ -97,7 +97,7 @@ We have added prediction of baby delivery and to-do-list features which are to b
 
 ## WEBAPP prototype:
 <p align="center">
-<img width="400px" src="AMEPrototype.png"/>
+<img width="400px" src="AMEprototype.png"/>
  </p>
  
 <p align="center">

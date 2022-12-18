@@ -5,7 +5,7 @@
 </p>
 <p>
 Most people spend days upon days talking about empowering women and making their lives easier but only very few take steps to implement it. Let alone maintain proper hygiene, most people aren't even fully aware of their own options. In a society full of superstitious beliefs clogging people's minds and leading them to mistreat the women in their family, there MUST be some glimmer of education!
-We believe it's the small things that count. Therefore, we decided to develop AME an integrated self-tracking system that acts like a friend to women. 
+We believe it's the small things that count. Therefore, we decided to develop AME, an integrated self-tracking system that acts like a friend to women. 
 The features of our web app are: Period Tracking, Fitness guide, Journaling, Prediction of baby delivery, GPS Tracking - a safety feature for women's security and task Management. Out of which we were successfully able to deploy the period tracking feature.
  
 This app is developed with the intention of giving girls the knowledge they lack about their own health, charting out the hormonal cycles of people, and letting them keep an eye on their physical and mental well-being.

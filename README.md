@@ -58,15 +58,15 @@ $ App.js
 
 ## How it works:
  
-**1.** First we made a project directory (head over to the terminal and create a React app named “AME” using the command: npx create-react-app ame)
+**1.** First we made a project directory using the command: npx create-react-app ame
  
 **2.** Imported Moment from "react-moment" to work with the dates. 
  
 **3.** Imported Calendar from "react-calendar" , select the last period datecurrent date or time if asked by the user.
  
-**4.** User should select their period cycle length.
+**4.** User should select their period cycle length and then her last period start date from the calender.
  
-**5.** With the help of the last period start date and cycle length we will get an estimate of the next period.
+**5.** With the help of these two values we can estimate the date of the next period.
  
 **6.** Added basic commands in the code.
  
@@ -86,7 +86,7 @@ We have added prediction of baby delivery and to-do-list features which are to b
 </tr>
 <tr>
 <td>Last period date</td>		   
-<td>Next period & Approx. ovulation day</td>
+<td>Next period & approx. ovulation day</td>
 </tr>
 </table>
 
